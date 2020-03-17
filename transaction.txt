@@ -1,0 +1,5 @@
+45666	John	john@csusm.edu		28
+98273	Gary	gary@csusm.edu		19
+12923	Ken 	ken@csusm.edu		21
+53210	Jimmy	jimmy@csusm.edu		32
+12893	Amy		amy@csusm.edu		24
