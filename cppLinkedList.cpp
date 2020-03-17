@@ -1,8 +1,8 @@
 //============================================================================
 // Author		: Zhenia Steger
 // Purpose		: To demonstrate a linked list in C++
-//					Creates a simple linked list with object data from file and
-//					input into console.
+//				Creates a simple linked list with object data from file and
+//				input into console.
 // ============================================================================
 #include <iostream>
 #include <fstream>
